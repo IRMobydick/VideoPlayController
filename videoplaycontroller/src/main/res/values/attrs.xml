@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VideoPlayController">
+        <attr name="v_title_size" format="dimension" />
+        <attr name="c_title_size" format="dimension" />
+        <attr name="time_size" format="dimension" />
+
+        <attr name="v_title_color" format="color" />
+        <attr name="c_title_color" format="color" />
+        <attr name="time_color" format="color" />
+
+        <attr name="c_volume_enable" format="boolean" />
+        <attr name="c_brightness_enable" format="boolean" />
+    </declare-styleable>
+</resources>
